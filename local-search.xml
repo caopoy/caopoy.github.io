@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>图的深度遍历与广度遍历 &amp; P5318题解</title>
+    <link href="/2020/02/18/dfs-and-bfs/"/>
+    <url>/2020/02/18/dfs-and-bfs/</url>
+    
+    <content type="html"><![CDATA[<p>目录：</p><ul><li>题目<ul><li>链接</li><li>题面</li><li>输入输出格式</li></ul></li><li>题解<ul><li>图<ul><li>什么是图</li><li>如何存图</li></ul></li><li>DFS</li><li>BFS</li><li>代码</li></ul></li><li><a href="##总结">总结</a></li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>OIer</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>算法</tag>
+      
+      <tag>题解</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2020/01/25/hello-world/"/>
     <url>/2020/01/25/hello-world/</url>
