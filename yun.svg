@@ -1,21 +1,19 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="yun-logo" width="400" height="400" viewBox="40 40 320 320" stroke-width="16">
-    <style>
-        #yun-logo {
-            stroke: black;
-        }
-
-        @media (prefers-color-scheme: dark) {
-            #yun-logo {
-                stroke: white;
-            }
-        }
-    </style>
-    <defs>
-        <line id="eye" x1="0" y1="-35" x2="0" y2="35" stroke-linecap="round">
-            <animateTransform attributeName="transform" additive="sum" attributeType="XML" type="scale" from="1 1" to="1 0" dur="0.15s" repeatCount="2"/>
-        </line>
-    </defs>
-    <polygon stroke-linejoin="round" fill="none" points="50,250 50,150 100,150 100,100 300,100 300,150 350,150 350,250 300,250 300,300 100,300 100,250 50,250"/>
-    <use xlink:href="#eye" transform="translate(150,200)"/>
-    <use xlink:href="#eye" transform="translate(250,200)"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="251px" height="253px" viewBox="0 0 251 253" enable-background="new 0 0 251 253" xml:space="preserve">  <image id="image0" width="251" height="253" x="0" y="0"
+    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPsAAAD9AQMAAABA5ZP4AAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEX/////fyfm9zfBAAAA
+AWJLR0QAiAUdSAAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAAd0SU1FB+QFGQ0OMWN12rYAAAI3SURB
+VGje7dkxboMwFABQowxkqOSMHSrRY3Rzj5IjdMyGD9BDuerSY3AEukUqwrXBKAa+/w8haaCyt8AT
+2Mbxh/8Z+yct18HWnN+Ez+vCAo6AowUZAiqiC7q2QGNNMpbQoA5OgNDKjlIFQWLHmWpsDksDagQI
+A3iFgMzMFD8iwJ7kJQJSAzIUmPtnBQI2VwFiFkgsUATIIlgnSIfbhwNptxkMtoqqA91xKYa7gwPd
+cUWCPADys69AAnIUS3gWEawAAJFR+gAKfIUPUgAcfcApkAGg9oEYxzWuewAYaQ/kwAwI6QEotLbz
+5wAUWvkkAMXedApISFBSt4hgIuDeihwAMdyJ5QC0K93by9WNANWHcv48RBDBioAfcyQE/DcsBQE/
+LpYQOJxunkCgtxkfIFB44AUCKoITcM8KBuZpfbtndTko3dvNsuchgqQLumUQCAq8tZd/CoKiBQ9B
+oNYAPnVtN7L3y8ESRvEXIG+WCwKk+fmIgA8LthhgtwfZj9Zfd+7DfGA+KSUKtoztUbBj7JkCuwgi
+OHvBmFOvKNhQi3b2/6LZglDQplZuuU8WFNhTIO9SlhcHd3Zq9wIFAXrfKNDLfy/Zc4QA+QFCfsJk
+FBi3aWB2RusKoAIA9wGZ2SNygwXL5Ri0x1y5SqgxcKVNB4AMZw+EU6AOhLOsDSjBIqpbNi0IZ3ot
+oCuDFQJsbZGsTpL1TbJCmuhwJ5oaK16ltVdHgZ2OHAPNWJHzTfc4AppZJuvdWC/ZMtovwhNz00lt
+/CMAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDUtMjVUMTM6MTQ6NDkrMDA6MDBlAR+yAAAAJXRF
+WHRkYXRlOm1vZGlmeQAyMDIwLTA1LTI1VDEzOjE0OjQ5KzAwOjAwFFynDgAAAABJRU5ErkJggg==" />
 </svg>
